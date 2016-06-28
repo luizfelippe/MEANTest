@@ -1,0 +1,13 @@
+# Folders
+/node_modules
+/dist
+/.tmp
+/.sass-cache
+/bower_components
+
+# Files
+/Gruntfile.js
+/yo-rc.json
+/.jshintrc
+/.jscsrc
+/.editorconfig
