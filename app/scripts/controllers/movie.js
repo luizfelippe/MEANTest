@@ -12,6 +12,5 @@ angular.module('clientApp')
     $scope,
     Movie
   ) {
-  	$scope.movieWindowActive = true;
     $scope.movies = Movie.getList().$object;
   });
